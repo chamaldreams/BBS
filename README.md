@@ -1,4 +1,4 @@
-Bbs
+BBS
 ================
 
 This application was generated with the [rails_apps_composer](https://github.com/RailsApps/rails_apps_composer) gem
@@ -29,8 +29,12 @@ Learn more about [Installing Rails](http://railsapps.github.io/installing-rails.
 Getting Started
 ---------------
 
+After setting up the Rails environment according to the above versions. Start the app locally with `rails s`.
+
 Documentation and Support
 -------------------------
+
+This application was generated with the [rails_apps_composer](https://github.com/RailsApps/rails_apps_composer) gem provided by the [RailsApps Project](http://railsapps.github.io/).
 
 Issues
 -------------
@@ -42,7 +46,10 @@ Contributing
 ------------
 
 Credits
+<chamal madusanke>
 -------
 
 License
 -------
+
+Internal use only
