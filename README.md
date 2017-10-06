@@ -46,8 +46,9 @@ Contributing
 ------------
 
 Credits
-<chamal madusanke>
 -------
+
+chamal madusanke
 
 License
 -------
